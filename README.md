@@ -117,4 +117,9 @@ HF_MODEL=mistralai/Mistral-7B-Instruct-v0.2
 `pyttsx3` can only use voices installed on your Windows machine. The code prefers Indian/female voices if present.
 To add more voices: Windows **Settings → Time & language → Speech → Manage voices**.
 
+## Collaboration
+
+This project was created in collaboration with [Superteams.ai](https://superteams.ai).
+
+The collaboration involved contributing technical content, sharing insights, and building projects/blogs focused on learning, innovation, and community engagement in the tech ecosystem.
 
